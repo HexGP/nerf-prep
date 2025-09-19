@@ -3,4 +3,4 @@ python C:/Users/Jayle/OneDrive/Desktop/NERF_AI/colmap2nerf.py --video_in buildin
 
 On Workstation
 python Instant-NGP/scripts/colmap2nerf.py --video_in data_b/building.MOV --video_fps 2 --run_colmap --aabb_scale 16
-python Instant-NGP/scripts/colmap2nerf.py --video_in data_b/building.MOV --video_fps 2 --run_colmap --aabb_scale 16 --colmap_camera_model OPENCV
+python Instant-NGP/scripts/colmap2nerf.py --video_in data_c/building.MOV --video_fps 2 --run_colmap --aabb_scale 16 --colmap_camera_model OPENCV
